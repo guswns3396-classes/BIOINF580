@@ -1,0 +1,12 @@
+name: bioinf580
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - pywavelets
+  - numpy
+  - pandas
+  - scipy
+  - ipykernel
+prefix: /home/yhyunjoo/miniconda3/envs/bioinf580
