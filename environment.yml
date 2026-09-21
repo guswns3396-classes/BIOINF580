@@ -9,4 +9,3 @@ dependencies:
   - pandas
   - scipy
   - ipykernel
-prefix: /home/yhyunjoo/miniconda3/envs/bioinf580
