@@ -1,0 +1,3 @@
+[submodule "lab/lab2/HiguchiFractalDimension"]
+	path = lab/lab2/HiguchiFractalDimension
+	url = https://github.com/inuritdino/HiguchiFractalDimension.git
