@@ -1,0 +1,15 @@
+name: bioinf580
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.0
+  - scipy=1.14
+  - pandas=2.2
+  - scikit-learn=1.5
+  - matplotlib=3.9
+  - pywavelets=1.7
+  - jupyterlab
+  - ipykernel
+  - pip
+# HiguchiFractalDimension: clone https://github.com/inuritdino/HiguchiFractalDimension.git into the working directory
